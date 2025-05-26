@@ -13,7 +13,7 @@ The dashboard provides insights into:
 
 ## 📊 Dashboard Preview
 
-You can view a snapshot of the dashboard in the [Pettrade_India.pdf](assets/Pettrade_India.pdf) file included here.
+You can view a snapshot of the dashboard in the [Pettrade_India.pdf](https://github.com/senguptashruti/PowerBI_projects/blob/main/Pettrade_India.pdf) file included here.
 
 | Metric | Value |
 |--------|-------|
