@@ -1,5 +1,5 @@
 # PowerBI_projects
-# Project-1 🐾 Wildlife Illegal Trade in India – Power BI Dashboard
+# Project-1 Wildlife Illegal Trade in India – Power BI Dashboard
 
 This Power BI project explores illegal wildlife trade incidents in India, based on data from the **Wildlife COnservation Society-India (WCS)**.
 
@@ -17,13 +17,13 @@ You can view a snapshot of the dashboard in the [Pettrade_India.pdf](https://git
 
 | Metric | Value |
 |--------|-------|
-| 🐍 Total Incidents | 454 |
-| 🦜 Species Count   | 277 |
-| 🐾 Live Confiscated | 1001 |
-| ☠️ Dead Confiscated | 958 |
+| Total Incidents | 454 |
+| Species Count   | 277 |
+| Live Confiscated | 1001 |
+| Dead Confiscated | 958 |
 
 
-## 🔍 Key Features
+## Key Features
 
 - **Time Series Analysis** – Incident counts from 2014 to 2024
 - **Species Classification** – By group, protection level (IUCN, CITES, WPA)
@@ -31,14 +31,14 @@ You can view a snapshot of the dashboard in the [Pettrade_India.pdf](https://git
 - **Filtering** – Native vs Non-native species, location type, and protection status
 - **Transport Flow** – Origin-destination mapping of animal movements
 
-## 🚀 Tools Used
+## Tools Used
 
 - Microsoft Power BI Desktop  
 - Bing Maps integration  
 - DAX calculations and filters  
 - Public wildlife crime incident data
 
-## 🧠 Learnings
+## Learnings
 
 - Importance of structured visual filters for investigative datasets  
 - Visual communication of multi-dimensional data  
