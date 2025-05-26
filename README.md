@@ -1,7 +1,7 @@
 # PowerBI_projects
 # Project-1 Wildlife Illegal Trade in India – Power BI Dashboard
 
-This Power BI project explores illegal wildlife trade incidents in India, based on data from the **Wildlife COnservation Society-India (WCS)**.
+This Power BI project explores illegal wildlife trade incidents in India, based on data from the **Wildlife Conservation Society-India (WCS)**.
 
 The dashboard provides insights into:
 - Confiscation trends over time
